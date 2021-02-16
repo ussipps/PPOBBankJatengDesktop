@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/04 16:00:00.000.463,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/30 16:00:00.000.761,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/02 12:00:00.000.630,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/02 12:00:00.000.347,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/22 15:00:00.000.271,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/05 15:00:00.000.630,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/18 22:00:00.000.307,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/08 19:00:00.000.588,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/22 14:00:00.000.009,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/01 10:00:00.000.697,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/04 17:00:00.000.565,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/04 17:00:00.000.763,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/04 17:00:00.000.702,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/05 17:00:00.000.228,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/07 21:00:00.000.003,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2020/01/07 21:00:00.000.862,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/13 09:00:00.000.525,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 18:00:00.000.110,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/26 09:45:10.000.266,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/26 10:33:47.000.086,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 14:42:29.000.512,=C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 14:49:17.000.901,C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\My\Delphi 10.3\PPOBJateng\uMyMainMenu.dfm</Transaction>
+    <Transaction>2021/01/20 14:49:17.000.901,C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\My\Delphi 10.3\PPOBJateng\uMyMainMenu.pas</Transaction>
+    <Transaction>2021/01/20 15:48:12.000.657,C:\Users\adhytiapato\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\My\Delphi 10.3\PPOBJateng\iPast.dproj</Transaction>
+    <Transaction>2021/01/23 21:11:13.000.260,D:\My\Delphi 10.3\PPOBJateng\uMyMainMenu.pas=</Transaction>
+    <Transaction>2021/01/23 21:17:02.000.667,=D:\My\Delphi 10.3\PPOBJateng\uMyMainMenu.pas</Transaction>
+    <Transaction>2021/01/24 19:34:34.000.795,=D:\My\Delphi 10.3\PPOBJateng\uMyLogin.pas</Transaction>
+    <Transaction>2021/01/24 19:34:42.000.208,=D:\My\Delphi 10.3\PPOBJateng\uLkJSON.pas</Transaction>
+    <Transaction>2021/01/24 19:34:48.000.365,=D:\My\Delphi 10.3\PPOBJateng\uSamsat.pas</Transaction>
+    <Transaction>2021/01/26 16:35:47.000.493,=D:\My\Delphi 10.3\PPOBJateng\uPbb.pas</Transaction>
+    <Transaction>2021/01/27 15:58:10.000.010,=D:\My\Delphi 10.3\PPOBJateng\uMyGlobalVariabel.pas</Transaction>
+    <Transaction>2021/01/29 20:21:45.000.753,=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 20:26:02.000.730,D:\My\Delphi 10.3\PPOBJateng\uProsesRekon.pas=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 20:26:02.000.730,D:\My\Delphi 10.3\PPOBJateng\uProsesRekon.dfm=D:\My\Delphi 10.3\PPOBJateng\Unit1.dfm</Transaction>
+    <Transaction>2021/02/04 14:12:40.000.129,=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/02/04 14:26:41.000.789,D:\My\Delphi 10.3\PPOBJateng\uKonfigurasi.dfm=D:\My\Delphi 10.3\PPOBJateng\Unit1.dfm</Transaction>
+    <Transaction>2021/02/04 14:26:41.000.789,D:\My\Delphi 10.3\PPOBJateng\uKonfigurasi.pas=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/02/04 18:10:11.000.997,=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/02/04 22:19:43.000.920,D:\My\Delphi 10.3\PPOBJateng\uAbout.pas=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/02/04 22:19:43.000.920,D:\My\Delphi 10.3\PPOBJateng\uAbout.dfm=D:\My\Delphi 10.3\PPOBJateng\Unit1.dfm</Transaction>
+    <Transaction>2021/02/09 21:57:29.000.945,=D:\My\Delphi 10.3\PPOBJateng\Unit1.pas</Transaction>
+    <Transaction>2021/02/09 22:29:34.000.336,D:\My\Delphi 10.3\PPOBJateng\Unit1.pas=D:\My\Delphi 10.3\PPOBJateng\uPosting.pas</Transaction>
+    <Transaction>2021/02/09 22:29:34.000.336,D:\My\Delphi 10.3\PPOBJateng\Unit1.dfm=D:\My\Delphi 10.3\PPOBJateng\uPosting.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

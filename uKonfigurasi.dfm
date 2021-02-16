@@ -1,0 +1,315 @@
+object fKonfigurasi: TfKonfigurasi
+  Left = 0
+  Top = 0
+  Caption = 'fKonfigurasi'
+  ClientHeight = 503
+  ClientWidth = 793
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PanelUtama: TPanel
+    Left = 0
+    Top = 0
+    Width = 793
+    Height = 503
+    Align = alClient
+    BevelOuter = bvNone
+    Color = clWhite
+    ParentBackground = False
+    TabOrder = 0
+    OnResize = PanelUtamaResize
+    object PanelJudul: TPanel
+      Left = 0
+      Top = 0
+      Width = 793
+      Height = 41
+      Align = alTop
+      BevelOuter = bvNone
+      Caption = 'Konfigurasi Sistem'
+      Color = 5918719
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWhite
+      Font.Height = -19
+      Font.Name = 'Roboto'
+      Font.Style = []
+      ParentBackground = False
+      ParentFont = False
+      TabOrder = 0
+    end
+    object GroupURL: TGroupBox
+      Left = 16
+      Top = 47
+      Width = 673
+      Height = 58
+      Caption = ' URL '
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 1
+      object Label1: TLabel
+        Left = 303
+        Top = 25
+        Width = 171
+        Height = 16
+        Caption = 'ex : http://123.4.56.789:2001'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object cURL: TEdit
+        Left = 13
+        Top = 22
+        Width = 284
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 0
+      end
+    end
+    object Panel2: TPanel
+      Left = 0
+      Top = 462
+      Width = 793
+      Height = 41
+      Align = alBottom
+      BevelOuter = bvNone
+      TabOrder = 2
+      object btnSimpan: TButton
+        Left = 25
+        Top = 8
+        Width = 75
+        Height = 25
+        Caption = 'Simpan'
+        TabOrder = 0
+        OnClick = btnSimpanClick
+      end
+    end
+    object GroupAuth: TGroupBox
+      Left = 16
+      Top = 108
+      Width = 673
+      Height = 91
+      Caption = ' Auth '
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 3
+      object Label2: TLabel
+        Left = 13
+        Top = 25
+        Width = 26
+        Height = 16
+        Caption = 'User'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label3: TLabel
+        Left = 13
+        Top = 56
+        Width = 51
+        Height = 16
+        Caption = 'Terminal'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object cUserAuth: TEdit
+        Left = 79
+        Top = 22
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 0
+      end
+      object cTerminalAuth: TEdit
+        Left = 79
+        Top = 53
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 1
+      end
+    end
+    object GroupSFTP: TGroupBox
+      Left = 16
+      Top = 202
+      Width = 673
+      Height = 189
+      Caption = ' Setting SFTP '
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -13
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      TabOrder = 4
+      object Label4: TLabel
+        Left = 13
+        Top = 25
+        Width = 93
+        Height = 16
+        Caption = 'Folder File Kirim'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label5: TLabel
+        Left = 13
+        Top = 56
+        Width = 46
+        Height = 16
+        Caption = 'Address'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label6: TLabel
+        Left = 13
+        Top = 87
+        Width = 23
+        Height = 16
+        Caption = 'Port'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object LabelUsername: TLabel
+        Left = 13
+        Top = 118
+        Width = 58
+        Height = 16
+        Caption = 'Username'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object labelpass: TLabel
+        Left = 13
+        Top = 149
+        Width = 55
+        Height = 16
+        Caption = 'Password'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object cFileKirim: TEdit
+        Left = 112
+        Top = 22
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 0
+      end
+      object cAddress: TEdit
+        Left = 112
+        Top = 53
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 1
+      end
+      object cPort: TEdit
+        Left = 112
+        Top = 84
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 2
+      end
+      object cUsername: TEdit
+        Left = 112
+        Top = 115
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 3
+      end
+      object cPassword: TEdit
+        Left = 112
+        Top = 146
+        Width = 218
+        Height = 24
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clGrayText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 4
+      end
+    end
+  end
+end
